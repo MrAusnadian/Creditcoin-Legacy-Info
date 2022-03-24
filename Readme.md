@@ -1,4 +1,4 @@
-# Creditcoin Transaction Types
+# Creditcoin Legacy (Sawtooth) Transaction Types
 
 ## General Information
 * `[amount]` is displayed in smallest unit (e.g. Credo, Wei, Satoshi)
